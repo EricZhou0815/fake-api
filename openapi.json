@@ -7,8 +7,8 @@
   },
   "servers": [
     {
-      "url": "http://localhost:3000",
-      "description": "Development server"
+      "url": "https://shoes-shop-fake-api.onrender.com",
+      "description": "Render server"
     }
   ],
   "paths": {
