@@ -77,15 +77,5 @@
     }
   ],
   "users": [
-    {
-      "id": "2VDqWiKlM9lwTOl7YBdfM",
-      "username": "eric.zhou0815",
-      "password": "$2b$10$oYLkthmWUB4dqeai8diDr.vKjjgV1o.Xm0ahCMs7v3P1T2fYm31g."
-    },
-    {
-      "id": "8qosPU5-q_CXvVLexG2Yy",
-      "username": "john_doe",
-      "password": "$2b$10$tAqvUPF/pFSTdKf2FvDoSuwL5FQdy/myGVH4iim8OFcRME1aWcDWy"
-    }
   ]
 }
