@@ -1,0 +1,91 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "name": "Nike Air Max",
+      "brand": "Nike",
+      "price": 121.99,
+      "size": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "color": [
+        "Black",
+        "White",
+        "Red"
+      ],
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "name": "Adidas Ultraboost",
+      "brand": "Adidas",
+      "price": 140.5,
+      "size": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "color": [
+        "Blue",
+        "White",
+        "Gray"
+      ],
+      "stock": 30
+    },
+    {
+      "id": 3,
+      "name": "Puma RS-X",
+      "brand": "Puma",
+      "price": 99.99,
+      "size": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "color": [
+        "Green",
+        "Black",
+        "White"
+      ],
+      "stock": 20
+    },
+    {
+      "id": 4,
+      "name": "New Balance 574",
+      "brand": "New Balance",
+      "price": 110.75,
+      "size": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "color": [
+        "Gray",
+        "Black",
+        "Navy"
+      ],
+      "stock": 40
+    }
+  ],
+  "users": [
+    {
+      "id": "2VDqWiKlM9lwTOl7YBdfM",
+      "username": "eric.zhou0815",
+      "password": "$2b$10$oYLkthmWUB4dqeai8diDr.vKjjgV1o.Xm0ahCMs7v3P1T2fYm31g."
+    },
+    {
+      "id": "8qosPU5-q_CXvVLexG2Yy",
+      "username": "john_doe",
+      "password": "$2b$10$tAqvUPF/pFSTdKf2FvDoSuwL5FQdy/myGVH4iim8OFcRME1aWcDWy"
+    }
+  ]
+}
